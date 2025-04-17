@@ -1,0 +1,582 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    ", " : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ","
+          }
+        }
+      }
+    },
+    "%@" : {
+
+    },
+    "A calm mind brings happiness" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pikiran yang tenang membawa kebahagiaan"
+          }
+        }
+      }
+    },
+    "Anxiety Tracker" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anxiety Tracker"
+          }
+        }
+      }
+    },
+    "AnxietyTracker" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AnxietyTracker"
+          }
+        }
+      }
+    },
+    "Breath In" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarik Nafas"
+          }
+        }
+      }
+    },
+    "Breath Out" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hembuskan Nafas"
+          }
+        }
+      }
+    },
+    "Camera" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kamera"
+          }
+        }
+      }
+    },
+    "Congratulate yourself because it takes courages to write on your thoughts" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ucapkan selamat pada diri sendiri karena dibutuhkan keberanian untuk menuliskan pemikiran Anda"
+          }
+        }
+      }
+    },
+    "Do you remember the first thought you had this morning? Keep a list." : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apakah Anda ingat pikiran pertama yang Anda pikirkan pagi ini? Buatkan jadi list"
+          }
+        }
+      }
+    },
+    "End of the Day Reflection" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Refleksi Akhir Hari"
+          }
+        }
+      }
+    },
+    "End the day with a journal reflection" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Akhiri hari dengan refleksi jurnal"
+          }
+        }
+      }
+    },
+    "Exhale slowly, letting the air leave your lungs and your body relax" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hembuskan napas perlahan, biarkan udara keluar dari paru-paru dan tubuh Anda rileks"
+          }
+        }
+      }
+    },
+    "Feel anxious today" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merasa cemas hari ini"
+          }
+        }
+      }
+    },
+    "Feeling anxious? It’s okay. Breath, relax, and trust that you will be okay." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feeling anxious? It’s okay. Breath, relax, and trust that you will be okay."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merasa cemas? Tidak apa-apa. Nafas, rileks, dan percayalah bahwa Anda akan baik-baik saja."
+          }
+        }
+      }
+    },
+    "Finish Earlier" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selesai Duluan"
+          }
+        }
+      }
+    },
+    "Good Morning" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selamat Pagi"
+          }
+        }
+      }
+    },
+    "halodunia" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hello World"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Halo Dunia"
+          }
+        }
+      }
+    },
+    "Hold" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tahan"
+          }
+        }
+      }
+    },
+    "Hold your breath for a moment, feeling the calm spread through your body" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tahan napas sejenak, rasakan ketenangan menyebar ke seluruh tubuh Anda"
+          }
+        }
+      }
+    },
+    "How you’ve felt overall today?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bagaimana perasaan Anda secara keseluruhan hari ini?"
+          }
+        }
+      }
+    },
+    "Inhale slowly, letting your lungs fill and your chest expand gently" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarik napas perlahan, biarkan paru-paru Anda terisi dan dada Anda mengembang dengan lembut"
+          }
+        }
+      }
+    },
+    "Journey with Being?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perjalanan bersama Being?"
+          }
+        }
+      }
+    },
+    "Keeping a log of your anxious feelings can help you understand how to overcome your anxiety and track your progress." : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mencatat perasaan cemas dapat membantu Anda memahami cara mengatasi kecemasan dan melacak kemajuan Anda."
+          }
+        }
+      }
+    },
+    "Leave all your thoughts here and focus on your day" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tinggalkan semua pemikiran Anda di sini dan fokuslah pada harimu"
+          }
+        }
+      }
+    },
+    "Let’s calm down and take a relaxing breath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Let’s calm down and take a relaxing breath"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mari tenang dan ambil napas yang rileks"
+          }
+        }
+      }
+    },
+    "Let's start writing!" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayo mulai menulis!"
+          }
+        }
+      }
+    },
+    "Photo Library" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Photo Library"
+          }
+        }
+      }
+    },
+    "Preparation of The Day" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Persiapan Hari Ini"
+          }
+        }
+      }
+    },
+    "Prepare your wonderful day with journaling" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Persiapkan hari indah Anda dengan membuat jurnal"
+          }
+        }
+      }
+    },
+    "Prepared for a peaceful day ahead" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bersiap untuk hari yang damai di masa depan"
+          }
+        }
+      }
+    },
+    "Ready to Begin Your Journaling" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Siap untuk memulai journalling"
+          }
+        }
+      }
+    },
+    "Reflect on your day in your journal before ending the day to capture thoughts and emotions" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renungkan hari Anda dalam jurnal Anda sebelum mengakhiri hari untuk menangkap pikiran dan emosi"
+          }
+        }
+      }
+    },
+    "Select source" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Source"
+          }
+        }
+      }
+    },
+    "Set and focused for a serene and productive day ahead" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tetapkan dan fokus untuk hari depan yang tenang dan produktif"
+          }
+        }
+      }
+    },
+    "Storing your thoughts here can help you focus on your task because you know you can revisit them." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menyimpan pemikiran Anda di sini dapat membantu Anda fokus pada tugas karena Anda tahu Anda dapat meninjaunya kembali."
+          }
+        }
+      }
+    },
+    "Take a moment for yourself and start journaling!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Take a moment for yourself and start journaling!"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luangkan waktu sejenak untuk diri Anda sendiri dan mulailah membuat jurnal!"
+          }
+        }
+      }
+    },
+    "Take Breath" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ambil nafas"
+          }
+        }
+      }
+    },
+    "Think, Learned, and Do Better Tomorrow" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Berpikir, belajar, dan berbuat lebih baik besok"
+          }
+        }
+      }
+    },
+    "Thought Dump Journal" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jurnal Curahan Pikiran"
+          }
+        }
+      }
+    },
+    "Today went well" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hari ini berjalan dengan baik"
+          }
+        }
+      }
+    },
+    "Today's Journal" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jurnal Hari Ini"
+          }
+        }
+      }
+    },
+    "What can you learn from today so that you can be better tomorrow?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apa yang bisa kamu pelajari hari ini agar kamu bisa menjadi lebih baik di masa depan?"
+          }
+        }
+      }
+    },
+    "What could have gone better today?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apa yang bisa lebih baik hari ini?"
+          }
+        }
+      }
+    },
+    "What do you plan to do today?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apa yang Anda rencanakan hari ini?"
+          }
+        }
+      }
+    },
+    "What does your perfect day look like?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seperti apa hari sempurnamu?"
+          }
+        }
+      }
+    },
+    "What is making you feel anxious today?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apa yang membuatmu merasa cemas hari ini?"
+          }
+        }
+      }
+    },
+    "What is one of your favorite memories?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apa salah satu kenangan favoritmu?"
+          }
+        }
+      }
+    },
+    "What went well today, what are 3 things that happened today that you are grateful for?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apa yang berjalan baik hari ini, apa 3 hal yang terjadi hari ini yang kamu syukuri?"
+          }
+        }
+      }
+    },
+    "What’s one kind or supportive thing you can say to yourself?" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hal baik atau suportif apa yang bisa Anda katakan kepada diri sendiri?"
+          }
+        }
+      }
+    },
+    "What’s the most important thing you want to focus on today?" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hal terpenting apa yang ingin Anda fokuskan hari ini?"
+          }
+        }
+      }
+    },
+    "Write a letter to yourself." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tulis surat untuk diri Anda sendiri."
+          }
+        }
+      }
+    },
+    "Writing down worries calms and focuses the mind" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menuliskan kekhawatiran akan menenangkan dan memfokuskan pikiran"
+          }
+        }
+      }
+    },
+    "Your thoughts deserve a safe space" : {
+      "localizations" : {
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sediakan tempat aman untuk pikiran anda"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -49,8 +49,8 @@ Although the app has been successfully published and is fully functional, it is 
 Your insights are highly appreciated to help us create a more impactful and supportive experience for those managing anxiety.
 
 ## 🌐 Learn More  
-To explore more design works and other projects by the designer, visit:  
-👉 [bit.ly/gwtportfolio](https://bit.ly/gwtportfolio)
+For a deeper look into the design process, goals, and implementation insights of this project,  
+please visit my portfolio: [bit.ly/gwtportfolio](https://bit.ly/gwtportfolio)
 
 ## © Copyright  
 © 2025 Gallen Winslow Tantosa, Aileen Chalina Wijaya, Hans Arthur Cupiterson, Muhammad Rasyad Caesarardhi, Arrick Adinoto. All rights reserved.  
